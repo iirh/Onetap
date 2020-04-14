@@ -1,0 +1,9 @@
+C:\Users\Python\source\repos\onetap\onetap\bin\Debug\onetap.exe.config
+C:\Users\Python\source\repos\onetap\onetap\bin\Debug\onetap.exe
+C:\Users\Python\source\repos\onetap\onetap\bin\Debug\onetap.pdb
+C:\Users\Python\source\repos\onetap\onetap\obj\Debug\onetap.csprojAssemblyReference.cache
+C:\Users\Python\source\repos\onetap\onetap\obj\Debug\onetap.Properties.Resources.resources
+C:\Users\Python\source\repos\onetap\onetap\obj\Debug\onetap.csproj.GenerateResource.cache
+C:\Users\Python\source\repos\onetap\onetap\obj\Debug\onetap.exe
+C:\Users\Python\source\repos\onetap\onetap\obj\Debug\onetap.pdb
+C:\Users\Python\source\repos\onetap\onetap\obj\Debug\onetap.Main.resources
