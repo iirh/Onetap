@@ -4,8 +4,11 @@ Injection fixed! :)
 
 i was bored and decided to make a remake of the Onetap Loader for OTC users ;)
 
-https://void.to/t/Onetap-Loader-Remake-for-OTC-UPDATED
+https://xtremecheats.gg/t/Onetap-Loader-C-Remake-for-OTC-UPDATED
 
+https://i.imgur.com/n4CCOuH.png
+
+https://i.imgur.com/99E0Yze.png
 
 Tutorial:
 
