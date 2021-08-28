@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("onetap")]
-[assembly: AssemblyDescription("Discord: root#1418")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Discord: root#1418")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("onetap")]
-[assembly: AssemblyCopyright("Copyright ©  2020 Github.com/iirh")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
